@@ -7,6 +7,8 @@ license="${mod_license}"
 
 [[mods]] #mandatory
 
+logoFile = "icon.png"
+
 modId="${mod_id}" #mandatory
 
 version="${mod_version}" #mandatory
@@ -16,8 +18,9 @@ displayName="${mod_name}" #mandatory
 authors="Reforgetting Team"
 
 description='''
-Example mod description.
+Add new building blocks to minecraft
 '''
+
 
 [[mixins]]
 config="${mod_id}.mixins.json"
