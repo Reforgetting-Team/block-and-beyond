@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "blocksandbeyond:block/no_transit_sign_block" },
+    "facing=south": { "model": "blocksandbeyond:block/no_transit_sign_block", "y": 180 },
+    "facing=west":  { "model": "blocksandbeyond:block/no_transit_sign_block", "y": 270 },
+    "facing=east":  { "model": "blocksandbeyond:block/no_transit_sign_block", "y": 90 }
+  }
+}

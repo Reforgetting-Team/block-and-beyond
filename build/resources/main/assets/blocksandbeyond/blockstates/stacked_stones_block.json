@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "blocksandbeyond:block/stacked_stones_block"
+    }
+  }
+}
