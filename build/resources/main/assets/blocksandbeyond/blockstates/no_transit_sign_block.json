@@ -1,0 +1,37 @@
+{
+  "variants": {
+    "facing=north,wall_mounted=false": {
+      "model": "blocksandbeyond:block/no_transit_sign_block",
+      "y": 270
+    },
+    "facing=north,wall_mounted=true": {
+      "model": "blocksandbeyond:block/no_transit_sign_block_wall",
+      "y": 270
+    },
+
+    "facing=south,wall_mounted=false": {
+      "model": "blocksandbeyond:block/no_transit_sign_block",
+      "y": 90
+    },
+    "facing=south,wall_mounted=true": {
+      "model": "blocksandbeyond:block/no_transit_sign_block_wall",
+      "y": 90
+    },
+
+    "facing=west,wall_mounted=false": {
+      "model": "blocksandbeyond:block/no_transit_sign_block",
+      "y": 180
+    },
+    "facing=west,wall_mounted=true": {
+      "model": "blocksandbeyond:block/no_transit_sign_block_wall",
+      "y": 180
+    },
+
+    "facing=east,wall_mounted=false": {
+      "model": "blocksandbeyond:block/no_transit_sign_block"
+    },
+    "facing=east,wall_mounted=true": {
+      "model": "blocksandbeyond:block/no_transit_sign_block_wall"
+    }
+  }
+}

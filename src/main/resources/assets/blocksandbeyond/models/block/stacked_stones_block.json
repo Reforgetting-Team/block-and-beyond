@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "blocksandbeyond:block/stacked_stones_top",
+    "side": "blocksandbeyond:block/stacked_stones_side"
+  }
+}

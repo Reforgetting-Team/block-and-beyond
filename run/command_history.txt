@@ -1,0 +1,14 @@
+/recipe give @p blocksandbeyond:stacked_stones_block
+/reload
+/recipe give @p blocksandbeyond:stacked_stones_block
+/gamerule doMobSpawning false
+/kill @e[type=!minecraft:player]
+/kill @e[type=!minecraft:player]t
+/kill @e[type=!minecraft:player]
+/give @p blocksandbeyond:no_transit_sign_block
+/reload
+/give @p minecraft:debug_stick
+/weather clear
+/time set day
+/fill 142 -61 -7 108 -64 31 air
+/setblock ~ ~ ~ blocksandbeyond:stacked_stones_block

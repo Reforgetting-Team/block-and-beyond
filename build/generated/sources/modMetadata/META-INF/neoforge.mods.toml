@@ -1,0 +1,40 @@
+
+modLoader="javafml" #mandatory
+
+loaderVersion="[1,)" #mandatory
+
+license="GPL-V3"
+
+[[mods]] #mandatory
+
+modId="blocksandbeyond" #mandatory
+
+version="1.0.0" #mandatory
+
+displayName="Blocks & Beyond" #mandatory
+
+authors="Reforgetting Team"
+
+description='''
+Example mod description.
+'''
+
+[[mixins]]
+config="blocksandbeyond.mixins.json"
+
+#[[accessTransformers]]
+#file="META-INF/accesstransformer.cfg"
+
+[[dependencies.blocksandbeyond]] #optional
+    modId="neoforge" #mandatory
+    type="required" #mandatory
+    versionRange="[21.1.248,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.blocksandbeyond]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="NONE"
+    side="BOTH"
