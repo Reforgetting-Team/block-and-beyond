@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "blocksandbeyond:iron_pole"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_bars"
+  }
+}

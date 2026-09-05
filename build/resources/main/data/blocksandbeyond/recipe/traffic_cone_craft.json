@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "W",
+    "O",
+    "S"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:orange_wool"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    },
+    "S": {
+      "item": "minecraft:polished_deepslate_slab"
+    }
+
+  },
+  "result": {
+    "id": "blocksandbeyond:traffic_cone",
+    "count": 4
+  }
+}

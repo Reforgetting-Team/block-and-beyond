@@ -48,7 +48,7 @@ Details:
 Stacktrace:
 	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.phys.shapes.Shapes.box(Shapes.java:50) ~[neoforge-21.1.248.jar%23177!/:?] {re:classloading}
 	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.block.Block.box(Block.java:152) ~[neoforge-21.1.248.jar%23177!/:?] {re:classloading,pl:accesstransformer:B}
-	at TRANSFORMER/blocksandbeyond@1.0.0/dev.yaghito.blocksandbeyond.block.custom.NoTransitSignBlock.<clinit>(NoTransitSignBlock.java:21) ~[%23179!/:?] {re:classloading}
+	at TRANSFORMER/blocksandbeyond@1.0.0/dev.yaghito.blocksandbeyond.block.custom.NoTransitSign.<clinit>(NoTransitSignBlock.java:21) ~[%23179!/:?] {re:classloading}
 	at TRANSFORMER/blocksandbeyond@1.0.0/dev.yaghito.blocksandbeyond.block.ModBlocks.lambda$static$1(ModBlocks.java:37) ~[%23179!/:?] {re:classloading}
 	at TRANSFORMER/neoforge@21.1.248/net.neoforged.neoforge.registries.DeferredRegister$Blocks.lambda$register$0(DeferredRegister.java:417) ~[neoforge-21.1.248.jar%23178!/:?] {re:classloading}
 	at TRANSFORMER/neoforge@21.1.248/net.neoforged.neoforge.registries.DeferredRegister.lambda$register$1(DeferredRegister.java:234) ~[neoforge-21.1.248.jar%23178!/:?] {re:classloading}

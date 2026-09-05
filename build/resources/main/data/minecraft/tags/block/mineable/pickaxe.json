@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "blocksandbeyond:stacked_stones_block"
+    "blocksandbeyond:stacked_stones_block",
+    "blocksandbeyond:iron_pole"
   ]
 }

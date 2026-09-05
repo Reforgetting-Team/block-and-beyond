@@ -293,5 +293,59 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2026-09-05 13:53:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2026-09-05 13:53:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2026-09-05 13:53:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2026-09-05 13:53:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2026-09-05 13:54:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2026-09-05 13:54:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2026-09-05 13:54:01 +0200"
+    },
+    "done": true
+  },
+  "blocksandbeyond:main/root": {
+    "criteria": {
+      "auto_unlock": "2026-09-05 15:36:06 +0200"
+    },
+    "done": true
+  },
+  "blocksandbeyond:main/traffic_cone": {
+    "criteria": {
+      "wear_cone_hat": "2026-09-05 15:36:53 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

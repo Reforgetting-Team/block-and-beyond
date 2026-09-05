@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:iron_bars"
+  },
+  "result": {
+    "count": 1,
+    "id": "blocksandbeyond:iron_pole"
+  }
+}

@@ -12,3 +12,12 @@
 /time set day
 /fill 142 -61 -7 108 -64 31 air
 /setblock ~ ~ ~ blocksandbeyond:stacked_stones_block
+/time set day
+/recipe give @p blocksandbeyond:iron_pole_craft
+/item replace entity @a armor.head with blocksandbeyond:traffic_cone
+/give @p minecraft:polished_deepslate_slab
+/advancement revoke @p only blocksandbeyond:moving_cone
+/advancement revoke Dev only blocksandbeyond:traffic_cone
+/advancement revoke Dev only blocksandbeyond:main/traffic_cone
+/advancement revoke Dev only blocksandbeyond:main/root
+/advancement revoke Dev only blocksandbeyond:main/traffic_cone

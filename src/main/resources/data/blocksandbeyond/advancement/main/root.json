@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "blocksandbeyond:stacked_stones_block"
+    },
+    "title": {
+      "translate": "advancements.blocksandbeyond.root.title"
+    },
+    "description": {
+      "translate": "advancements.blocksandbeyond.root.description"
+    },
+    "background": "blocksandbeyond:textures/block/stacked_stones_side.png",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "auto_unlock": {
+      "trigger": "minecraft:tick"
+    }
+  }
+
+}

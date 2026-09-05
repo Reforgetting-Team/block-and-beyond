@@ -1,8 +1,18 @@
 {
   "creativetab.blocksandbeyond.main_tab": "Blocks & Beyond",
+
+  "advancements.blocksandbeyond.root.title": "Blocks & Beyond",
+  "advancements.blocksandbeyond.root.description": "Welcome to Blocks & Beyond",
+  "advancements.blocksandbeyond.traffic_cone.title": "A.... Traffic Cone?",
+  "advancements.blocksandbeyond.traffic_cone.description": "Wear a traffic cone",
+
   "block.blocksandbeyond.stacked_stones_block": "Stacked Stones Block",
   "item.blocksandbeyond.stacked_stones_block": "Stacked Stones Block",
-  "block.blocksandbeyond.no_transit_sign_block": "No Transit Sign",
-  "item.blocksandbeyond.no_transit_sign_block": "No Transit Sign"
+  "block.blocksandbeyond.no_transit_sign": "No Transit Sign",
+  "item.blocksandbeyond.no_transit_sign": "No Transit Sign",
+  "block.blocksandbeyond.iron_pole": "Iron Pole",
+  "item.blocksandbeyond.iron_pole": "Iron Pole",
+  "block.blocksandbeyond.traffic_cone": "Traffic Cone",
+  "item.blocksandbeyond.traffic_cone": "Traffic Cone"
 
 }

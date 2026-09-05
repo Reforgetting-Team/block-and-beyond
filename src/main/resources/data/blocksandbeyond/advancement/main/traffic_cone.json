@@ -1,0 +1,38 @@
+{
+  "parent": "blocksandbeyond:main/root",
+  "display": {
+    "icon": {
+      "id": "blocksandbeyond:traffic_cone"
+    },
+    "title": {
+      "translate": "advancements.blocksandbeyond.traffic_cone.title"
+    },
+    "description": {
+      "translate": "advancements.blocksandbeyond.traffic_cone.description"
+    },
+
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "wear_cone_hat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "slots": {
+                "armor.head": {
+                  "items": "blocksandbeyond:traffic_cone"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

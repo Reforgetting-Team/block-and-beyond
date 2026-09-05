@@ -22,7 +22,9 @@ public class ModCreativeModTabs {
             .displayItems((itemDisplayParameters, output) -> {
 
               output.accept(ModBlocks.STACKED_STONES_BLOCK);
-              output.accept(ModBlocks.NO_TRANSIT_SIGN_BLOCK);
+              output.accept(ModBlocks.NO_TRANSIT_SIGN);
+              output.accept(ModBlocks.IRON_POLE);
+              output.accept(ModBlocks.TRAFFIC_CONE);
 
             }).build());
 
